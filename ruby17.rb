@@ -17,7 +17,7 @@ end
 
 people = People.new
 people.name
-puts "inori"
+puts "good"
 
 People.pari
 
