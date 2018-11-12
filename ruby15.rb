@@ -14,11 +14,11 @@ shokifujimoto = { name: "Fujimoto Shoki", birth: "1994年5月24日",
   blood:"O"}
 puts shokifujimoto[:name]
 
-def p_ruby(name)
+def ruby(name)
   puts name + "ruby"
 end
 
-p_ruby("inori")
+ruby("plus")
 
 def p_one(math)
   puts math.next
